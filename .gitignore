@@ -2,3 +2,4 @@ FashionMNIST
 runs
 log*
 __pycache__
+!.gitignore
