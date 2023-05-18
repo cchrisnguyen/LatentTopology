@@ -18,7 +18,7 @@ This project explores the topology of several machine learning algorithms using 
 2. Install the required packages using pip or conda:
 
 ```
-pip install opencv-python numpy scikit-learn tensorboard matplotlib
+pip install python pytorch torchvision numpy scikit-learn tensorboard matplotlib
 ```
 
 3. Follow the instructions in `demonstration.ipynb`.
